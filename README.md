@@ -1,1 +1,1 @@
-# Sistema-de-gesti-n-de-estudiantes
+# Sistema-de-gestion-de-estudiantes
