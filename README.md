@@ -1,1 +1,1 @@
-# Sistema-de-gestion-de-estudiantes
+# Registro-de-los-estudiantes
